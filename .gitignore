@@ -1,0 +1,11 @@
+
+# data
+*data/
+*.csv
+*.gz
+
+#Ipython Notebook
+.ipynb_checkpoints
+
+
+

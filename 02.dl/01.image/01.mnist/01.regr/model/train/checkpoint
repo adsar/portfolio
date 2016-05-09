@@ -1,0 +1,2 @@
+model_checkpoint_path: "model/train/mnist-regr-2000"
+all_model_checkpoint_paths: "model/train/mnist-regr-2000"
